@@ -1,0 +1,6 @@
+REVISION_TECNICA.md
+*.zip
+.DS_Store
+Thumbs.db
+desktop.ini
+.Rhistory
