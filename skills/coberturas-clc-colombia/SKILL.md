@@ -12,8 +12,10 @@ license: MIT
 # Coberturas Corine Land Cover adaptada para Colombia
 
 ## Leyenda y escala
-- Use la Leyenda Nacional de Coberturas de la Tierra, metodología Corine Land Cover adaptada para Colombia (IDEAM), con códigos jerárquicos (p. ej. 2.3.1 pastos limpios, 2.3.2 pastos arbolados, 2.3.3 pastos enmalezados, 3.1.x bosques, 3.2.3 vegetación secundaria o en transición, 4.1.1 zonas pantanosas, 5.1.1 ríos).
-- Declare la escala de trabajo y la unidad mínima cartografiable (UMC) acorde a ella. Como guía práctica: 1 ha para Sentinel-2 (escala cercana a 1:25.000) y unos 0,1 ha para ortofoto de 1 m (cercana a 1:10.000).
+- Use la Leyenda Nacional de Coberturas de la Tierra, metodología Corine Land Cover adaptada para Colombia (IDEAM, 2010, o versiones oficiales posteriores), con códigos jerárquicos (p. ej. 2.3.1 pastos limpios, 2.3.2 pastos arbolados, 2.3.3 pastos enmalezados, 3.1.x bosques, 3.2.3 vegetación secundaria o en transición, 4.1.1 zonas pantanosas, 5.1.1 ríos). Puede detallar niveles inferiores, pero los niveles 1, 2 y 3 no se modifican.
+- La escala de trabajo la fijan los términos de referencia (en pequeña minería, 1:5.000 o la más pertinente). La unidad mínima cartografiable (UMC) que fija la metodología de estudios ambientales de 2026 (Resolución 0940) es de 4 × 4 mm a la escala: 400 m² a 1:5.000; 1.600 m² a 1:10.000; 1 ha a 1:25.000; 16 ha a 1:100.000.
+- La resolución de la imagen debe corresponder a la escala: como mínimo 0,8 m para 1:5.000; 2,5 m para 1:10.000; 5 m para 1:25.000 y 15 m para 1:100.000, con una antigüedad máxima de tres años salvo justificación. Sentinel-2 (10 m) no alcanza el mínimo para 1:25.000: úselo para análisis de paisaje o multitemporales, declarando y justificando la escala, y no como insumo único de una cobertura de detalle. Una ortofoto de 1 m alcanza para 1:10.000, pero no para 1:5.000.
+- Los cuerpos de agua de la capa de coberturas deben coincidir con los de la hidrografía base del estudio.
 - Las clases se definen por lo que se ve, no por el nombre que conviene. **Árboles dispersos en potrero son 2.3.2 pastos arbolados, no bosque fragmentado (3.1.3)**; llamar bosque a un parche de pocos árboles sobredimensiona el impacto y contradice el inventario.
 
 ## Insumos y su jerarquía

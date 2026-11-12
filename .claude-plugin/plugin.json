@@ -1,7 +1,7 @@
 {
   "name": "sig-ambiental-colombia",
   "displayName": "SIG ambiental Colombia",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Skills para trabajo SIG y biótico en estudios ambientales de Colombia: cartografía oficial en EPSG:9377, coberturas Corine Land Cover adaptada, modelo de datos ANLA, inventario forestal, especies amenazadas y vedas, ecología del paisaje y trámites ante autoridades ambientales.",
   "author": { "name": "CamiloGaviria-sig", "url": "https://github.com/CamiloGaviria-sig" },
   "homepage": "https://github.com/CamiloGaviria-sig/sig-ambiental-colombia",

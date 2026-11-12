@@ -13,9 +13,10 @@ license: MIT
 # Modelo de almacenamiento geográfico de la ANLA
 
 ## Antes de llenar
-1. Consiga la plantilla de GDB y el **diccionario de datos** de la versión vigente del modelo, publicados por la ANLA. El modelo lo modificó y consolidó la Resolución 2182 de 2016 del Ministerio de Ambiente y Desarrollo Sostenible, que en noviembre de 2026 seguía siendo la más reciente sobre el tema en el listado de resoluciones de la ANLA. La plantilla y el diccionario se actualizan con más frecuencia que la resolución: al usar esta skill, descargue la versión vigente del sitio de la ANLA y revise si la nueva metodología de estudios ambientales (Resolución 0940 de 2026) cambió algún requisito geográfico. El diccionario manda sobre cualquier ejemplo, incluido este.
-2. Lea del diccionario solo las capas que va a llenar: nombre exacto, campos obligatorios, tipo, longitud, unidades y dominios.
-3. Defina con el equipo qué capas aplican al proyecto. Una capa que no aplica se entrega vacía **con su esquema**, o según indique la autoridad.
+1. Consiga la plantilla de GDB y el **diccionario de datos** de la versión vigente del modelo, publicados por la ANLA. El modelo lo modificó y consolidó la Resolución 2182 de 2016 del Ministerio de Ambiente y Desarrollo Sostenible, que en noviembre de 2026 seguía siendo la más reciente sobre el tema en el listado de resoluciones de la ANLA. La metodología de estudios ambientales de 2026 (Resolución 0940) ratifica que la información geográfica se estructura según la Resolución 2182 de 2016 «o aquella que la modifique o sustituya». La plantilla y el diccionario se actualizan con más frecuencia que la resolución: al usar esta skill, descargue la versión vigente del sitio de la ANLA.
+2. La información que no tenga un objeto o tabla en el modelo se entrega como anexo digital del capítulo correspondiente, con justificación técnica y la aclaración en el texto. Los resultados de bioacústica, si los hay, también se integran al modelo como puntos de muestreo. El diccionario manda sobre cualquier ejemplo, incluido este.
+3. Lea del diccionario solo las capas que va a llenar: nombre exacto, campos obligatorios, tipo, longitud, unidades y dominios.
+4. Defina con el equipo qué capas aplican al proyecto. Una capa que no aplica se entrega vacía **con su esquema**, o según indique la autoridad.
 
 ## Capas bióticas frecuentes
 | Capa o tabla | Qué contiene | Errores típicos |

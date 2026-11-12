@@ -4,7 +4,7 @@ Conjunto de skills para el trabajo SIG y del medio biótico en estudios ambienta
 
 Nació de la práctica en proyectos de minería aluvial en el Bajo Cauca antioqueño. Recoge lo que suele aprenderse a fuerza de errores: dónde se rompen las entregas de la ANLA, por qué una cobertura no se valida con los mismos puntos que la construyeron y cómo evitar que un inventario contradiga a su propia capa de aprovechamiento.
 
-> **Versión 0.1.1.** Las normas de cartografía, modelo de datos, inventario forestal, vedas y metodología de estudios ambientales se contrastaron con fuentes oficiales en noviembre de 2026. Como cambian con el tiempo, cada skill indica qué debe confirmar el profesional al usarla.
+> **Versión 0.2.0.** Las normas de cartografía, modelo de datos, inventario forestal, vedas y metodología de estudios ambientales se contrastaron con fuentes oficiales en noviembre de 2026, incluidas la Metodología General para la Elaboración y Presentación de Estudios Ambientales (Resolución 0940 de 2026) y los términos de referencia de pequeña minería (TdR-032, 2026). Como cambian con el tiempo, cada skill indica qué debe confirmar el profesional al usarla.
 
 ## Skills
 

@@ -27,6 +27,8 @@ No hay una regla universal sobre qué es hábitat, qué es barrera o qué escala
 
 Registre cada decisión con su justificación (literatura, datos del sitio, criterio experto) y haga análisis de sensibilidad sobre las más inciertas. Si el equipo no tiene la información, presente escenarios en lugar de fijar un valor.
 
+La metodología de estudios ambientales de 2026 (Resolución 0940) va en la misma línea: pide modelos de conectividad funcional **independientes por especie**, con especies focales seleccionadas y justificadas, nodos definidos según el rango de hogar o un tamaño mínimo de parche sustentado, y una matriz de resistencia por especie construida con evaluación multicriterio. Los requisitos de la metodología y de los términos de referencia de minería están resumidos en `references/requisitos-mgepea-tdr.md`.
+
 ## Fragmentación
 - Métricas de parche, clase y paisaje (McGarigal et al., 2012): por ejemplo CA, PLAND, NP, LPI, ED, ENN, GYRATE, FRAC, área núcleo y SHDI. Elija las que responden la pregunta o las que exige el término de referencia; no reporte decenas de métricas sin interpretarlas.
 - Calcule sobre la misma leyenda, resolución y extensión en todas las fechas o escenarios que compare.
@@ -42,6 +44,9 @@ Registre cada decisión con su justificación (literatura, datos del sitio, crit
 
 ## Cuando dos mapas dan resultados muy distintos
 Antes de explicar la diferencia, ubique **dónde** ocurre en el terreno. Una explicación que parece obvia puede ser falsa: por ejemplo, un nodo de hábitat que pisa una barrera en la rasterización abre pasos que no existen. La barrera debe mandar sobre el nodo cuando se rasteriza.
+
+## Conectividad y área de influencia
+Si un área de importancia para la conectividad recibe un impacto significativo, la metodología de 2026 pide incorporarla completa al área de influencia, aunque un análisis previo por coberturas haya dado un área distinta.
 
 ## Insumos y su extensión
 Las coberturas deben cubrir, en todas las fechas y a la misma escala, la unión del área de intervención con un buffer mayor que la distancia máxima de dispersión, el área protegida o reserva relevante y el área de influencia biótica. Si la intervención queda cerca del borde de las coberturas, adviértalo.

@@ -25,6 +25,13 @@ Los listados de especies amenazadas, los apéndices de CITES y las vedas cambian
    - Regionales: las corporaciones autónomas pueden declarar vedas propias (por ejemplo, de cedro). Busque las de la jurisdicción del proyecto.
 5. **Endemismo**: Catálogo de Plantas y Líquenes de Colombia.
 
+## Qué piden la metodología de 2026 y los términos de referencia
+- Registrar especies endémicas, en veda nacional o regional, amenazadas (listado nacional vigente y libros rojos), en la Lista Roja de la UICN (en su versión más actualizada, **con la fecha de consulta**) y en los apéndices I, II y III de CITES; también las exóticas con potencial invasor.
+- Caracterizar la flora en veda (bromelias, orquídeas, antocerotales, hepáticas, líquenes, musgos, helechos arborescentes y demás especies con veda nacional o regional) por cobertura y ecosistema, con su sustrato y ecología, y proponer medidas de manejo por grupo para el área de intervención, conforme al artículo 125 del Decreto 2106 de 2019 y a las circulares 8201-2-2378 y 8201-2-808 de 2019 del Ministerio de Ambiente.
+- Justificar la representatividad del muestreo por hábito y grupo. La metodología de 2026 remite al manual de la ANLA de representatividad del muestreo de flora en veda y pide un 85 % sobre los estimadores con curvas de acumulación; los términos de referencia de pequeña minería (TdR-032) piden 80 % o, con diseño estadístico, 95 % de probabilidad y error no mayor al 15 %. Aplique el umbral de los términos de referencia del proyecto y dígalo.
+- Algunos términos de referencia todavía citan listados derogados (por ejemplo, el TdR-032 de 2026 cita la Resolución 1912 de 2017). Use el listado vigente, que la metodología de 2026 identifica como la Resolución 0126 de 2024 o la que la sustituya, y explíquelo en el estudio.
+- Si se recolectan especímenes, se necesita el permiso de recolección con fines de estudios ambientales (art. 2.2.2.9.2.1 del Decreto 1076 de 2015).
+
 ## Cómo verificar sin repetir trabajo
 - Revise la lista completa de especies del proyecto una sola vez contra cada fuente y registre, por especie: categoría, fuente, número de la norma, página o tabla y fecha de consulta.
 - Busque por nombre científico aceptado y también por sinónimos; una especie puede aparecer con un nombre antiguo.
