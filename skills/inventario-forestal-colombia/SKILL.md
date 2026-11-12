@@ -22,8 +22,8 @@ Valide cada nombre científico contra una fuente taxonómica (Catálogo de Plant
 
 ## Suficiencia y error de muestreo
 - Curva de acumulación de especies por parcela; declare si se estabiliza.
-- Para inventarios estadísticos, reporte el error de muestreo con su probabilidad. La norma forestal colombiana ha exigido un error no mayor al 15 % con 95 % de probabilidad en ciertos aprovechamientos (*verificar el artículo vigente del Decreto 1076 de 2015 aplicable a cada clase de aprovechamiento*).
-- En árboles aislados se hace censo (100 %), no muestreo.
+- Para inventarios estadísticos, reporte el error de muestreo con su probabilidad. El Decreto 1076 de 2015 exige un error de muestreo no superior al 15 % con una probabilidad del 95 % en los aprovechamientos forestales persistentes (art. 2.2.1.1.4.5) y únicos (art. 2.2.1.1.5.7). El art. 2.2.1.1.4.5 también exige, según la superficie, un inventario al 100 % de las especies a aprovechar; confirme en el texto vigente (Función Pública o SUIN-Juriscol) el umbral de superficie y el momento de presentación antes de citarlo.
+- Los aprovechamientos de árboles aislados no requieren plan de aprovechamiento (parágrafo del art. 2.2.1.1.7.4) ni un error de muestreo normativo. En la práctica se censan todos los individuos a aprovechar; confirme con la autoridad ambiental de la jurisdicción qué información exige.
 
 ## Análisis de la vegetación
 - **Estructura horizontal:** abundancia, frecuencia y dominancia absolutas y relativas, e índice de valor de importancia (IVI).
@@ -41,7 +41,7 @@ Use las categorías del protocolo del proyecto y verifique que cada registro las
 - Sume por especie y verifique que el total coincida en el inventario, la capa de puntos de aprovechamiento y el formato de solicitud.
 
 ## Aprovechamiento forestal
-- Defina primero el tipo: árboles aislados fuera de cobertura de bosque natural, aprovechamiento único, persistente o doméstico (Decreto 1076 de 2015 y sus modificaciones, entre ellas las de 2019 sobre árboles aislados; *verificar vigencia*). La cobertura real del sitio decide el tipo: árboles dispersos en potrero son árboles aislados aunque una capa de coberturas diga bosque fragmentado. En ese caso, corrija la capa, no el permiso.
+- Defina primero el tipo: árboles aislados fuera de cobertura de bosque natural, aprovechamiento único, persistente o doméstico (Decreto 1076 de 2015, Libro 2, Parte 2, Título 2, Capítulo 1). El Decreto 1532 de 2019 modificó ese capítulo en lo relativo a plantaciones forestales. La regulación de árboles aislados ha tenido ajustes y se aplica con criterios de cada autoridad: al usar esta skill, confirme el texto vigente y los requisitos de la autoridad competente. La cobertura real del sitio decide el tipo: árboles dispersos en potrero son árboles aislados aunque una capa de coberturas diga bosque fragmentado. En ese caso, corrija la capa, no el permiso.
 - Solo se aprovechan individuos dentro del área de intervención vigente y con DAP igual o mayor al límite del protocolo (habitualmente 10 cm).
 - Las especies amenazadas o en veda se excluyen o se tramitan aparte (ver `especies-amenazadas-vedas`). Informe a qué distancia del área quedan.
 - Si el área de intervención se redujo y ya no hay individuos a aprovechar, dígalo de forma explícita y revise si el permiso ya se radicó (puede requerirse un desistimiento).

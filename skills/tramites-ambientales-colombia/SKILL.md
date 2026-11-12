@@ -15,7 +15,7 @@ license: MIT
 
 ## Marco de referencia frecuente (verificar vigencia antes de citar)
 - Decreto 1076 de 2015, Único Reglamentario del Sector Ambiente.
-- Resolución 1402 de 2018: Metodología General para la Elaboración y Presentación de Estudios Ambientales.
+- Resolución 0940 del 28 de julio de 2026 del Ministerio de Ambiente y Desarrollo Sostenible: adopta la nueva Metodología General para la Elaboración y Presentación de Estudios Ambientales (MGEPEA) y deroga la Resolución 1402 de 2018. Rige desde su publicación en el Diario Oficial. Por su régimen de transición (art. 6), los estudios pueden seguir la metodología de la Resolución 1402 de 2018 si se presentan dentro de los 18 meses siguientes a la entrada en vigor, y el interesado puede acogerse de inmediato a la nueva. Defina al inicio de cada estudio cuál metodología aplica y dígalo en el documento.
 - Términos de referencia del sector (por ejemplo, minería) expedidos por el ministerio o la autoridad.
 - Guía de áreas de influencia de la ANLA (2018).
 - Manual de compensaciones del componente biótico (Resolución 0256 de 2018 o la que la reemplace).

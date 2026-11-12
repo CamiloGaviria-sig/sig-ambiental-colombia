@@ -13,7 +13,7 @@ license: MIT
 # Modelo de almacenamiento geográfico de la ANLA
 
 ## Antes de llenar
-1. Consiga la plantilla de GDB y el **diccionario de datos** de la versión vigente del modelo (ANLA; *verificar vigencia de la resolución que lo adopta y de su última actualización*). El diccionario manda sobre cualquier ejemplo, incluido este.
+1. Consiga la plantilla de GDB y el **diccionario de datos** de la versión vigente del modelo, publicados por la ANLA. El modelo lo modificó y consolidó la Resolución 2182 de 2016 del Ministerio de Ambiente y Desarrollo Sostenible, que en noviembre de 2026 seguía siendo la más reciente sobre el tema en el listado de resoluciones de la ANLA. La plantilla y el diccionario se actualizan con más frecuencia que la resolución: al usar esta skill, descargue la versión vigente del sitio de la ANLA y revise si la nueva metodología de estudios ambientales (Resolución 0940 de 2026) cambió algún requisito geográfico. El diccionario manda sobre cualquier ejemplo, incluido este.
 2. Lea del diccionario solo las capas que va a llenar: nombre exacto, campos obligatorios, tipo, longitud, unidades y dominios.
 3. Defina con el equipo qué capas aplican al proyecto. Una capa que no aplica se entrega vacía **con su esquema**, o según indique la autoridad.
 

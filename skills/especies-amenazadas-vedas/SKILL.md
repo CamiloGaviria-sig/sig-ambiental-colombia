@@ -20,7 +20,8 @@ Los listados de especies amenazadas, los apéndices de CITES y las vedas cambian
 2. **Apéndices de CITES** (comercio internacional): consulte la lista vigente en el sitio de CITES o Species+.
 3. **Lista Roja de la UICN**: referencia global, no reemplaza la categoría nacional.
 4. **Vedas**:
-   - Nacionales: por ejemplo, la veda de flora no maderable (bromelias, orquídeas, musgos, líquenes y hepáticas) establecida desde la Resolución 0213 de 1977 del INDERENA, y vedas de especies maderables específicas. *Verificar el procedimiento vigente de manejo de especies en veda en el licenciamiento, que cambió con el Decreto 2106 de 2019.*
+   - Nacionales: por ejemplo, la Resolución 0213 de 1977 del INDERENA, que declaró en veda las especies conocidas como musgos, líquenes, lamas, quiches, chites, parásitas y orquídeas. En la práctica de los estudios ambientales se aplica a epífitas vasculares (orquídeas y bromelias) y no vasculares (musgos, hepáticas y líquenes). Existen además vedas nacionales de especies maderables específicas.
+   - Procedimiento: el artículo 125 del Decreto 2106 de 2019 eliminó el trámite separado de levantamiento parcial de veda para proyectos que requieren licencia, permiso o autorización ambiental. La autoridad competente (ANLA o la corporación) impone las medidas de conservación dentro de ese mismo trámite, por lo que la caracterización de las especies en veda y las medidas propuestas van en el estudio ambiental.
    - Regionales: las corporaciones autónomas pueden declarar vedas propias (por ejemplo, de cedro). Busque las de la jurisdicción del proyecto.
 5. **Endemismo**: Catálogo de Plantas y Líquenes de Colombia.
 

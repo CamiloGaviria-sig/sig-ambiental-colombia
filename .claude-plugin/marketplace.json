@@ -7,7 +7,7 @@
       "name": "sig-ambiental-colombia",
       "displayName": "SIG ambiental Colombia",
       "source": "./",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Cartografía oficial en EPSG:9377, coberturas Corine Land Cover adaptada, modelo de datos ANLA, inventario forestal, especies amenazadas y vedas, ecología del paisaje y trámites ambientales en Colombia.",
       "category": "data-science",
       "tags": ["colombia", "sig", "estudios-ambientales", "anla", "coberturas", "inventario-forestal", "ecologia-del-paisaje"]

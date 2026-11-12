@@ -13,7 +13,7 @@ license: MIT
 # Cartografía oficial en Colombia
 
 ## Reglas que no se negocian
-1. **Origen Nacional.** Los entregables oficiales van en MAGNA-SIRGAS / Origen-Nacional, **EPSG:9377** (adoptado por el IGAC en 2020, *verificar vigencia de la resolución*). Escriba siempre «EPSG:9377» o «Origen Nacional»; nunca «CTM12», que es un nombre informal.
+1. **Origen Nacional.** Los entregables oficiales van en MAGNA-SIRGAS / Origen-Nacional, **EPSG:9377**. Lo adoptó la Resolución 471 de 2020 del IGAC, modificada por las Resoluciones 529 de 2020 y 197 de 2022: proyección Transversa de Mercator sobre el elipsoide GRS80, origen en 4° N y 73° W, falso este 5.000.000 m, falso norte 2.000.000 m y factor de escala 0,9992. Al usar esta skill, confirme en el normograma del IGAC que no haya modificaciones posteriores. Escriba siempre «EPSG:9377» o «Origen Nacional»; nunca «CTM12», que es un nombre informal.
 2. **Áreas siempre en coordenadas proyectadas.** Las hectáreas oficiales se calculan en EPSG:9377. Si una capa llega en EPSG:4686 o 4326, reproyecte antes de medir; nunca calcule áreas en grados ni en Web Mercator.
 3. **La geometría manda sobre el atributo.** Los campos `Shape_Area`, `AREA_HA` o similares pueden estar desactualizados después de una edición. Recalcule desde la geometría y avise si difieren.
 4. **Sistema de coordenadas declarado al primer contacto.** Al abrir cada capa, informe su EPSG. Si no tiene `.prj` o es ambiguo, deténgase y resuélvalo con un punto de control conocido; no lo adivine.
